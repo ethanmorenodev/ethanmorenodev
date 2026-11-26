@@ -38,7 +38,7 @@ Trabajo con agentes de IA como parte del flujo de desarrollo —planificación, 
 
 | Proyecto | Descripción | Enlaces |
 |---|---|---|
-| **ProjectVTT** | Mesa virtual para juegos de rol. Caso de estudio de producto y arquitectura: cliente web, cliente de escritorio y servidor autoritativo. Stack y versiones documentados como propuesta, pendientes de confirmación. | [Case study](https://ethanmorenodev.github.io/portfolio/#projectvtt) · [Documentación](https://github.com/ethanmorenodev/projectvtt-docs) |
+| **ProjectVTT** | Mesa virtual para juegos de rol con ruleset D&D 5e: cliente web (React/TypeScript/PixiJS), cliente de escritorio (Godot/C#) y servidor autoritativo (ASP.NET Core, EF Core, SignalR). MVP completado y código público bajo MIT. | [Código](https://github.com/ethanmorenodev/projectvtt) · [Case study](https://ethanmorenodev.github.io/portfolio/#projectvtt) · [Documentación](https://github.com/ethanmorenodev/projectvtt-docs) |
 | **Portfolio Studio V12** | Sitio estático accesible con navegación orbital, paleta de comandos (Ctrl/⌘+K) y terminal interactiva. HTML, CSS y JavaScript sin dependencias de compilación. | [Web](https://ethanmorenodev.github.io/portfolio/) · [Código](https://github.com/ethanmorenodev/portfolio) |
 | **Gremio Fuego y Acero** | Colaboración digital: publicación de contenidos con IONOS y catálogos con Canva para la asociación. | [Web de la asociación](https://www.gremiofuegoyacero.com) |
 

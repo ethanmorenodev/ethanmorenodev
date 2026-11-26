@@ -38,7 +38,7 @@ I use AI agents as part of the development workflow —planning, implementation,
 
 | Project | Description | Links |
 |---|---|---|
-| **ProjectVTT** | Virtual tabletop for role-playing games. Product and architecture case study: web client, desktop client and authoritative server. Stack and versions documented as a proposal, pending confirmation. | [Case study](https://ethanmorenodev.github.io/portfolio/#projectvtt) · [Docs](https://github.com/ethanmorenodev/projectvtt-docs) |
+| **ProjectVTT** | Virtual tabletop for role-playing games with a D&D 5e ruleset: web client (React/TypeScript/PixiJS), desktop client (Godot/C#) and authoritative server (ASP.NET Core, EF Core, SignalR). Completed MVP, public code under MIT. | [Code](https://github.com/ethanmorenodev/projectvtt) · [Case study](https://ethanmorenodev.github.io/portfolio/#projectvtt) · [Docs](https://github.com/ethanmorenodev/projectvtt-docs) |
 | **Portfolio Studio V12** | Static, accessible site with orbital navigation, command palette (Ctrl/⌘+K) and interactive terminal. Plain HTML, CSS and JavaScript, no build step. | [Site](https://ethanmorenodev.github.io/portfolio/) · [Code](https://github.com/ethanmorenodev/portfolio) |
 | **Gremio Fuego y Acero** | Digital collaboration: content publishing with IONOS and catalogues with Canva for the association. | [Association site](https://www.gremiofuegoyacero.com) |
 
