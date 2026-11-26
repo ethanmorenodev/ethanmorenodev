@@ -4,7 +4,9 @@
 
 **Técnico informático junior · Software, sistemas e IA aplicada**
 
-Barcelona, España · [Portfolio](https://ethanmorenodev.github.io/portfolio/) · [CV](https://github.com/ethanmorenodev/portfolio/blob/main/CV_Ethan_Moreno.pdf) · [Email](mailto:ethan.moreno.dev@gmail.com)
+Barcelona, España · [Portfolio](https://ethanmorenodev.github.io/portfolio/) · [CV](https://github.com/ethanmorenodev/cv) · [Email](mailto:ethan.moreno.dev@gmail.com)
+
+[English version](README.en.md)
 
 </div>
 
